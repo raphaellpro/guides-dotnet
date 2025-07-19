@@ -1,0 +1,9 @@
+# -------------------------------------------------------------------
+# BUILD & COMPILAÇÃO
+# (Pastas e arquivos gerados automaticamente)
+# -------------------------------------------------------------------
+### Obsidian ###
+# config dir
+.obsidian/
+# trash dir
+.trash/
